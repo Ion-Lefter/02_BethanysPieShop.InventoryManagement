@@ -1,0 +1,14 @@
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.AssemblyInfo.cs
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\bin\Debug\net8.0\02_BethanysPieShop.InventoryManagement.exe
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\bin\Debug\net8.0\02_BethanysPieShop.InventoryManagement.deps.json
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\bin\Debug\net8.0\02_BethanysPieShop.InventoryManagement.runtimeconfig.json
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\bin\Debug\net8.0\02_BethanysPieShop.InventoryManagement.dll
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\bin\Debug\net8.0\02_BethanysPieShop.InventoryManagement.pdb
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.dll
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\refint\02_BethanysPieShop.InventoryManagement.dll
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.pdb
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.genruntimeconfig.cache
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\ref\02_BethanysPieShop.InventoryManagement.dll
