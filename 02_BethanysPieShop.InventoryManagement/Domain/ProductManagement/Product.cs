@@ -95,9 +95,9 @@ namespace _02_BethanysPieShop.InventoryManagement.Domain.ProductManagement
 
         public void UseProduct(int items)
         {
-            if (items < amountInStock)
+            if (items < AmountInStock)
             {
-                amountInStock -= items;
+                AmountInStock -= items;
                 UpdateLowStock();
                 Log($"Amount un stock updated. Now {amountInStock} items in stock.");
             }

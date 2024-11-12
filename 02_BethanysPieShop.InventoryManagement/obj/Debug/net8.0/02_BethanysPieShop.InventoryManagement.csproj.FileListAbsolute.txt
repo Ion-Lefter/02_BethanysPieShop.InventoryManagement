@@ -12,3 +12,4 @@ C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.Invent
 C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.pdb
 C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.genruntimeconfig.cache
 C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\ref\02_BethanysPieShop.InventoryManagement.dll
+C:\Users\ion.lefter\LND\My_Projects\02_DotNET_Projects\02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement\obj\Debug\net8.0\02_BethanysPieShop.InventoryManagement.sourcelink.json

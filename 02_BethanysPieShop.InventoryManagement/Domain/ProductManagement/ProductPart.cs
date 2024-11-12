@@ -9,14 +9,15 @@ namespace _02_BethanysPieShop.InventoryManagement.Domain.ProductManagement
 {
     public partial class Product
     {
-        public static int StockThreshhold = 5;
+        public static int StockThreshold = 5;
 
+        //public bool IsBelowStockThreshold;
         public static void ChangeStockThreshhold(int newStockThreshhold)
         {
             if(newStockThreshhold > 0)
-                StockThreshhold = newStockThreshhold;
+                StockThreshold = newStockThreshhold;
         }
-        private void UpdateLowStock()
+        public void UpdateLowStock()
         {
             if (amountInStock < 10)
             {

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_BethanysPieShop.InventoryManagement", "02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement.csproj", "{D6416847-016C-4D19-865F-7D029FE55E88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_BethanysPieShop.InventoryManagement", "02_BethanysPieShop.InventoryManagement\02_BethanysPieShop.InventoryManagement.csproj", "{D6416847-016C-4D19-865F-7D029FE55E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_BethanysPieShop.InventoryManagement.Tests", "02_BethanysPieShop.InventoryManagement.Tests\02_BethanysPieShop.InventoryManagement.Tests.csproj", "{156797F2-E1DF-4B33-9E7F-1C94DA9A9064}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D6416847-016C-4D19-865F-7D029FE55E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6416847-016C-4D19-865F-7D029FE55E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6416847-016C-4D19-865F-7D029FE55E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156797F2-E1DF-4B33-9E7F-1C94DA9A9064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156797F2-E1DF-4B33-9E7F-1C94DA9A9064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156797F2-E1DF-4B33-9E7F-1C94DA9A9064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156797F2-E1DF-4B33-9E7F-1C94DA9A9064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
